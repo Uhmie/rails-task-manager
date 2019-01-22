@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+  font-family: arial;
+}
+
+.wrapper {
+  background-color: lightgrey;
+  padding: 20px;
+}
